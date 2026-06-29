@@ -148,10 +148,26 @@ This cheat sheet is part of my own learning journey, and I hope it helps others 
 
 # 📜 License
 
-This project is released under the **MIT License**.
+This project is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** License.
+
+You are free to use, print, share and adapt this cheat sheet, provided that appropriate credit is given.
+
+For the full license text, see the LICENSE file or visit:
+
+https://creativecommons.org/licenses/by/4.0/
 
 ---
 
-If you found this project useful, please consider giving it a ⭐.
+# ❤️ Support
+
+If this cheat sheet helped you, please consider:
+
+⭐ Starring this repository
+
+🐛 Opening an Issue if you spot an error
+
+💡 Suggesting improvements
+
+Every contribution helps make this cheat sheet even better.
 
 Happy prompting! 🚀
